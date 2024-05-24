@@ -74,10 +74,10 @@ Right → ‘R’
  
 
 
-## Pictures and Videos
+## Pictures
 
    
-<!-- <img src="https://github.com/mahfuzhasanreza/Bluetooth-RC-Car/assets/115473925/c71b7d87-ad7a-4ff5-aec2-d232ff369ffa" alt="img-3" height="350">
-<img src="https://github.com/mahfuzhasanreza/Bluetooth-RC-Car/assets/115473925/a78ed5b9-98d9-4214-9f14-465a4c1eef42" alt="img-4" height="350"> -->
+ <img src="https://github.com/mahfuzhasanreza/Bluetooth-RC-Car/assets/115473925/c71b7d87-ad7a-4ff5-aec2-d232ff369ffa" alt="img-3" height="350">
+<img src="https://github.com/mahfuzhasanreza/Bluetooth-RC-Car/assets/115473925/a78ed5b9-98d9-4214-9f14-465a4c1eef42" alt="img-4" height="350"> 
 
  
